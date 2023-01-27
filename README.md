@@ -10,10 +10,12 @@ Problem: Multiclass classification:
 
 Output Classes: ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
 
-## Classification for Traffic Signals 
+### Traffic Signals Classification 
 
 Dataset: [Belgium Traffic Signal Dataset](https://btsd.ethz.ch/shareddata/BelgiumTSC/)
 
 ## Regression 
 
 ### Calcius to Fahrenheit conversion
+ 
+* F = 1.8 C + 32
